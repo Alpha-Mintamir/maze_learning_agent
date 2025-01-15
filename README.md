@@ -14,6 +14,7 @@ This project implements a **Q-learning agent** that learns to navigate a maze to
 
 ## 🛠️ Project Structure
 ```
+```
 maze_learning_agent/
 ├── agent/
 │   ├── __init__.py          # Package initializer
@@ -29,13 +30,11 @@ maze_learning_agent/
 │   └── ...                  # Other virtual environment files
 ```
 
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/maze_learning_agent.git
+git clone https://github.com/Alpha-mintamir/maze_learning_agent.git
 cd maze_learning_agent
 ```
 
